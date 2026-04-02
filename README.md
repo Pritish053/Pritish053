@@ -9,6 +9,12 @@
 
 <br/>
 
+<a href="https://pritishmaheta.com">
+<img src="https://img.shields.io/badge/pritishmaheta.com-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+</a>
+
+<br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=Pritish053&style=flat-square&color=7AA2F7" alt="Profile Views"/>
 
 </div>
