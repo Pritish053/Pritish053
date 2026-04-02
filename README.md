@@ -56,13 +56,13 @@ I architect AI systems, build businesses, and consult for organizations navigati
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pritish053&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7AA2F7&icon_color=7AA2F7&text_color=C0CAF5&ring_color=7AA2F7" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pritish053&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7AA2F7&icon_color=7AA2F7&text_color=C0CAF5&ring_color=7AA2F7" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pritish053&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7AA2F7&text_color=C0CAF5" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pritish053&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7AA2F7&text_color=C0CAF5" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Pritish053&theme=tokyonight&hide_border=true&background=00000000&ring=7AA2F7&fire=FF9E64&currStreakLabel=7AA2F7" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Pritish053&theme=tokyonight&hide_border=true&background=00000000&ring=7AA2F7&fire=FF9E64&currStreakLabel=7AA2F7" alt="GitHub Streak"/>
 
 <br/><br/>
 
