@@ -9,7 +9,7 @@
 
 <br/>
 
-<a href="https://pritishmaheta.com">
+<a href="https://www.pritishmaheta.com">
 <img src="https://img.shields.io/badge/pritishmaheta.com-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
 </a>
 
@@ -28,6 +28,19 @@ I architect AI systems, build businesses, and consult for organizations navigati
 - Building AI-powered products and leading tech ventures
 - Consulting enterprises on AI strategy and implementation
 - Exploring the intersection of AI, systems design, and business
+
+---
+
+### Writing
+
+Plain-English deep dives on how AI systems actually work — no code, one metaphor per article, honest about where things break.
+
+- **[The Open-Book AI](https://www.pritishmaheta.com/blog/series/the-open-book-ai)** — a 10-part series on **RAG**: how retrieval turns forgetful chatbots into experts on your own documents, and where it falls apart.
+- **[The Map of Meaning](https://www.pritishmaheta.com/blog/series/the-map-of-meaning)** — a 6-part series on **embeddings**: how AI turns language into geography, why "money back" finds "refund", and where the map lies.
+- **[The Cutting Room](https://www.pritishmaheta.com/blog/series/the-cutting-room)** — a 6-part series on **chunking**: the hidden craft of cutting documents into pieces an AI can actually retrieve.
+- **[Model Distillation](https://www.pritishmaheta.com/blog/series/model-distillation)** — a 7-part series on **distillation**: why frontier models are too expensive to deploy, and the math that moves their knowledge into small ones.
+
+All 29 articles at **[pritishmaheta.com/blog](https://www.pritishmaheta.com/blog)**.
 
 ---
 
